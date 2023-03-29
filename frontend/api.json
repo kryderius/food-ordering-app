@@ -1,0 +1,18 @@
+{
+  "paymentMethod": "card",
+  "orderContent": "[{'name': 'Pierogi z mięsem', 'quantity': '2', 'price': 15.99}]",
+  "tableNumber": 9,
+  "status": "Oczekuje na potwierdzenie",
+  "dish_details": [
+    {
+      "dish_name": "Pierogi z mięsem API",
+      "dish_price": 20,
+      "quantity": 1
+    },
+    {
+      "dish_name": "Schabowy po kowalsku",
+      "dish_price": 20,
+      "quantity": 1
+    }
+  ]
+}

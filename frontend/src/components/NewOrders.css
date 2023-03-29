@@ -1,0 +1,11 @@
+.col-right {
+  width: 30vw;
+  height: 100vh;
+  background-color: #232220;
+}
+
+.newOrder-popup {
+  width: 90%;
+  background-color: #1b1a17;
+  border-radius: 10px;
+}
